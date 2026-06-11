@@ -5,7 +5,7 @@
 
 ### Hi Devs, I’m Piyush 👋
 
-Full Stack Developer @ GLA University | Building scalable and user-centric web applications.
+Software Engineer @ Whatbytes | Building scalable and user-centric web applications.
 
 > Currently focused on mastering modern frameworks and exploring performance-critical systems.
 
@@ -21,7 +21,7 @@ Full Stack Developer @ GLA University | Building scalable and user-centric web a
 <td width="60%" valign="top">
 
 * 🚀 Full-stack Developer passionate about building scalable and user-centric web applications.
-* 🎓 Student at GLA University, constantly exploring new technologies and frameworks.
+* 🎓 Software Enigneer at Whatbytes, constantly exploring new technologies and frameworks.
 * 🛠️ Focused on **clean code**, performance, and modern architecture.
 * 🤝 Enjoy collaborating on open-source projects and solving complex engineering problems.
 
